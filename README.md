@@ -1,12 +1,5 @@
 # Result oriented resume templates for engineers
 
-See resumes built using this template:
-- [iOS](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7)
-- [Backend](https://azimjon.com/cv)
-
-
-### Table of contents:
-
 Hard skills
 - [Summary and Architecture](#summary-and-architecture)
 - [Technical skills](#technical-skills-and-achievements)
@@ -15,6 +8,7 @@ Hard skills
 Soft skills
 - [Collaboration](#collaboration)
 - [Mentorship](#mentorship)
+- 
 
 
 ### Format:
